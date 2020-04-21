@@ -1,0 +1,16 @@
+{
+  "name": "calitechcompany",
+  "version": "1.0.0",
+  "description": "this an employee to do list application",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "kelvin A.",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.0.2",
+    "express": "^4.17.1",
+    "mongodb": "^3.5.6"
+  }
+}

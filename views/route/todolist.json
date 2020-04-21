@@ -1,0 +1,28 @@
+[
+    {
+        "employee": "Helen Baker",
+        "status": "Active",
+        "department": "Human Resoucres department"
+    },
+
+
+{
+
+    "employee": "Lowis Quaye",
+        "status": "Active",
+        "department": "IT department"
+
+
+},
+
+
+{
+
+    "employee": "Gloria Bempa",
+        "status": "Active",
+        "department": "Security department"
+
+
+
+}
+]
